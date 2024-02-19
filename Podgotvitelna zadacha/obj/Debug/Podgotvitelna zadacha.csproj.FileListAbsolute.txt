@@ -1,0 +1,10 @@
+P:\formiVSbelezireva\Podgotvitelna zadacha\Podgotvitelna zadacha\bin\Debug\Podgotvitelna zadacha.exe.config
+P:\formiVSbelezireva\Podgotvitelna zadacha\Podgotvitelna zadacha\bin\Debug\Podgotvitelna zadacha.exe
+P:\formiVSbelezireva\Podgotvitelna zadacha\Podgotvitelna zadacha\bin\Debug\Podgotvitelna zadacha.pdb
+P:\formiVSbelezireva\Podgotvitelna zadacha\Podgotvitelna zadacha\obj\Debug\Podgotvitelna zadacha.csproj.AssemblyReference.cache
+P:\formiVSbelezireva\Podgotvitelna zadacha\Podgotvitelna zadacha\obj\Debug\Podgotvitelna_zadacha.Form1.resources
+P:\formiVSbelezireva\Podgotvitelna zadacha\Podgotvitelna zadacha\obj\Debug\Podgotvitelna_zadacha.Properties.Resources.resources
+P:\formiVSbelezireva\Podgotvitelna zadacha\Podgotvitelna zadacha\obj\Debug\Podgotvitelna zadacha.csproj.GenerateResource.cache
+P:\formiVSbelezireva\Podgotvitelna zadacha\Podgotvitelna zadacha\obj\Debug\Podgotvitelna zadacha.csproj.CoreCompileInputs.cache
+P:\formiVSbelezireva\Podgotvitelna zadacha\Podgotvitelna zadacha\obj\Debug\Podgotvitelna zadacha.exe
+P:\formiVSbelezireva\Podgotvitelna zadacha\Podgotvitelna zadacha\obj\Debug\Podgotvitelna zadacha.pdb
